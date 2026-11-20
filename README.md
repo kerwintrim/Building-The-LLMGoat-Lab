@@ -1,4 +1,4 @@
-# Building an LLMGoat Lab on a Budget Laptop
+# Building an LLMGoat Lab on a Windows VM
 
 *By Kerwin · November 2026*
 
